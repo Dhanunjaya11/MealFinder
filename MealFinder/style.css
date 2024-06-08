@@ -34,7 +34,7 @@ header {
 }
 .serach-area {
     height: 280px;
-    background: url('/foodFinder/assets/pexels-enginakyurt-1435895.jpg');
+    background: url('/MealFinder/assets/pexels-enginakyurt-1435895.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 100% 300px;
@@ -242,6 +242,7 @@ main {
     color: #ff6600;
     cursor: pointer;
 }
+
 .category-section hr {
     margin-top: -14px;
     margin-right: 1340px;
